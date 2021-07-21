@@ -18,6 +18,7 @@ Australian Index Funds
 | VAF  | N        | Vanguard | Australian Fixed Interest Index ETF                              | ?         | 3.8%  (-1.4 1yr) | 0.20% |
 | VTS  | N        | Vanguard | U.S. Total Market Shares Index ETF                               | ?         | 17.91  | 0.03% |
 | VAS  | N        | Vanguard | Australian Shares Index ETF                                      | ?         | 8.64%  | 0.10% |
+| VETH  | Y        | Vanguard | Ethically Conscious Australian Shares ETF                       | ?         | 10.4%  | 0.17% |
 | VGS  | N        | Vanguard | MSCI Index International Shares ETF                              | ?         | 12.88% | 0.18% |
 | VEU  | N        | Vanguard | All-World ex-U.S. Shares Index ETF                               | ?         | 9.04%  | 0.08% |
 | VDGR | N        | Vanguard | Diversified Growth Index ETF                                    | ?         | 8.81   | 0.27% |
